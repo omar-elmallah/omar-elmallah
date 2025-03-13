@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @omar-elmallah
-- 👀 I’m interested in cloud computing
+- 👀 I’m interested in devops 
 - 🌱 I’m currently learning cloud computing and devops ..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
